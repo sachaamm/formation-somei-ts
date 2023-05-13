@@ -1,5 +1,14 @@
 # formation-somei-ts
 
 ## 
-- npm init
-- 
+- Initialiser le projet
+```
+npm init -y
+```
+
+## Typescript
+
+- Installer typescript
+```
+npm install typescript @types/node ts-node tslib --save-dev
+```
